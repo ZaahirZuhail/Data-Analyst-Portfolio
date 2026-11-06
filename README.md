@@ -42,11 +42,11 @@ Project Screenshots
 
 1. SQL Queries
 
-"SQL Queries" (Images/SQL_Queries.png)
+"SQL Queries" (Images/SQL_Quaries.png)
 
 2. Duplicates Verification
 
-"Duplicates Verification" (Images/Duplicate_Removal.png)
+"Duplicates Verification" (Images/Duplicates_Verification.png)
 
 3. Data Standardization
 
@@ -54,11 +54,11 @@ Project Screenshots
 
 4. NULL Values
 
-"Checking and Removing Null Values" (Images/Null_Values.png)
+"Checking and Removing Null Values" (Images/Checking_and_Removing _NullValues.png)
 
 5. Final Cleaned Data
 
-"Final Cleaned Data" (Images/Final_Cleaned_Data.png)
+"Final Cleaned Data" (Images/Final_Cleaned Data.png)
 
 Learning Outcomes
 
