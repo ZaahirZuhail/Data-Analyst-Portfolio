@@ -38,27 +38,22 @@ SQL Skills Demonstrated
 - CASE statements
 - JOIN
 
-Project Screenshots
+## Project Screenshots
 
-1. SQL Queries
+### 1. SQL Queries
+![SQL Queries](SQL_Quaries.png)
 
-"SQL Queries" (Images/SQL_Quaries.png)
+### 2. Duplicate Verification
+![Duplicate Verification](Duplicates_Verification.png)
 
-2. Duplicates Verification
+### 3. Data Standardization
+![Data Standardization](Data_Standardization.png)
 
-"Duplicates Verification" (Images/Duplicates_Verification.png)
+### 4. NULL Values
+![NULL Values](Checking_and_Removing_NullValues)
 
-3. Data Standardization
-
-"Data Standardization" (Images/Data_Standardization.png)
-
-4. NULL Values
-
-"Checking and Removing Null Values" (Images/Checking_and_Removing _NullValues.png)
-
-5. Final Cleaned Data
-
-"Final Cleaned Data" (Images/Final_Cleaned Data.png)
+### 5. Final Cleaned Data
+![Final Cleaned Data](Final_Cleaned_Data.png)
 
 Learning Outcomes
 
