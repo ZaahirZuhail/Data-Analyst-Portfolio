@@ -1,0 +1,65 @@
+"company";"location";"industry";"total_laid_off";"percentage_laid_off";"date";"stage";"country";"funds_raised_millions"
+"";"Colombo";"Food";10.0;0.05;"2024-11-01";"Seed";"Sri Lanka";4.0
+"AIForge";"San Francisco";"AI";0.0;0.0;"";"Series C";"United States";0.0
+"AIForge";"San Francisco";"AI";18.0;0.05;"2024-05-01";"Series C";"United States";8.0
+"AIForge";"San Francisco";"AI";65.0;0.2;"";"Series C";"United States";60.0
+"AlphaSoft";"Toronto";"Software";65.0;0.22;"2023-11-15";"Series B";"Canada";70.0
+"AutoDrive";"Berlin";"Transportation";100.0;0.45;"2023-07-20";"Series D";"Germany";220.0
+"BetaTech";"New York";"Technology";0.0;0.0;"2023-12-01";"Series A";"United States";30.0
+"BlueOcean";"Colombo";"Marine";18.0;0.15;"2023-10-15";"Seed";"Sri Lanka";10.0
+"BrightAI";"San Francisco";"AI";200.0;0.5;"2023-03-15";"Series D";"United States";300.0
+"bytebridge";"Singapore";"Technology";18.0;0.05;"2024-05-01";"Seed";"Singapore";8.0
+"ByteBridge";"Singapore";"Technology";0.0;0.0;"";"Seed";"Singapore";0.0
+"ByteBridge";"Singapore";"Technology";18.0;0.05;"2024-05-01";"Seed";"Singapore";8.0
+"ByteBridge";"Singapore";"Technology";65.0;0.2;"";"Seed";"Singapore";60.0
+"CareNest";"Toronto";"Healthcare";33.0;0.08;"2024-10-15";"Seed";"Canada";32.0
+"CareNest";"Toronto";"Healthcare";42.0;0.12;"2024-05-18";"Seed";"Canada";25.0
+"CareNest";"Toronto";"Healthcare";90.0;0.3;"2024-06-20";"Seed";"Canada";110.0
+"CarePlus";"Colombo";"Healthcare";12.0;0.05;"2023-12-10";"Seed";"Sri Lanka";5.0
+"CloudBase";"London";"Software";80.0;0.4;"2023-02-10";"Series C";"United Kingdom";120.0
+"CodeCraft";"London";"Software";75.0;0.25;"2023-09-20";"Series B";"United Kingdom";95.0
+"DataWave";"Toronto";"Data";50.0;0.15;"";"Series A";"Canada";35.0
+"DataWorks";"New York";"Data";140.0;0.32;"2024-04-15";"Series D";"United States";250.0
+"EduPlus";"Delhi";"Education";40.0;0.2;"";"Series A";"India";25.0
+"FinEdge";"London";"Finance";33.0;0.08;"2024-10-15";"Series C";"United Kingdom";32.0
+"FinEdge";"London";"Finance";42.0;0.12;"2024-05-18";"Series C";"United Kingdom";25.0
+"FinEdge";"London";"Finance";90.0;0.3;"2024-06-20";"Series C";"United Kingdom";110.0
+"FinPay";"London";"Finance";90.0;0.3;"2023-04-12";"Series C";"United Kingdom";150.0
+"Foodly";"Sydney";"Food";30.0;0.1;"2023-03-05";"Seed";"Australia";12.0
+"FreshMart";"Sydney";"Retail";35.0;0.12;"2023-09-01";"Series A";"Australia";40.0
+"FutureAI";"San Francisco";"AI";300.0;1.0;"2024-02-01";"Series E";"United States";500.0
+"GreenCart";"Berlin";"Retail";45.0;0.2;"2023-04-01";"Series B";"Germany";60.0
+"HealthHub";"Colombo";"Healthcare";20.0;0.08;"2023-08-01";"Seed";"Sri Lanka";15.0
+"LearnLoop";"Delhi";"Education";0.0;0.0;"";"Series B";"India";0.0
+"LearnLoop";"Delhi";"Education";18.0;0.05;"2024-05-01";"Series B";"India";8.0
+"LearnLoop";"Delhi";"Education";65.0;0.2;"";"Series B";"India";60.0
+"MediaMint";"Tokyo";"Media";65.0;0.2;"";"Series A";"Japan";60.0
+"MediaMint";"Tokyo";"Media";0.0;0.0;"";"Series A";"Japan";0.0
+"MediaMint";"Tokyo";"Media";18.0;0.05;"2024-05-01";"Series A";"Japan";8.0
+"MediCare";"New York";"Healthcare";60.0;0.12;"2023-05-01";"Series B";"United States";75.0
+"MoveMate";"Sydney";"Transportation";0.0;0.0;"";"Series D";"Australia";0.0
+"MoveMate";"Sydney";"Transportation";18.0;0.05;"2024-05-01";"Series D";"Australia";8.0
+"movemate";"Sydney";"Transportation";65.0;0.2;"";"Series D";"Australia";60.0
+"NovaBank";"Singapore";"Finance";150.0;0.3;"2023-08-15";"Series C";"Singapore";180.0
+"OceanFresh";"Colombo";"Food";33.0;0.08;"2024-10-15";"Series A";"Sri Lanka";32.0
+"OceanFresh";"Colombo";"Food";42.0;0.12;"2024-05-18";"Series A";"Sri Lanka";25.0
+"OceanFresh";"Colombo";"Food";90.0;0.3;"2024-06-20";"Series A";"Sri Lanka";110.0
+"PayNow";"Singapore";"Finance";95.0;0.28;"2024-03-01";"Series B";"Singapore";110.0
+"PixelWorks";"Tokyo";"Media";55.0;0.18;"2023-07-01";"Series B";"Japan";90.0
+"QuickShip";"Colombo";"Logistics";25.0;0.15;"2023-04-15";"Series A";"Sri Lanka";20.0
+"RetailRocket";"Berlin";"Retail";42.0;0.12;"2024-05-18";"Series B";"Germany";25.0
+"RetailRocket";"Berlin";"Retail";33.0;0.08;"2024-10-15";"Series B";"Germany";32.0
+"retailrocket";"Berlin";"Retail";42.0;0.12;"2024-05-18";"Series B";"Germany";25.0
+"RetailRocket";"Berlin";"Retail";90.0;0.3;"2024-06-20";"Series B";"Germany";110.0
+"ShipSwift";"Dubai";"Logistics";33.0;0.08;"2024-10-15";"Series D";"UAE";32.0
+"ShipSwift";"Dubai";"Logistics";90.0;0.3;"2024-06-20";"Series D";"UAE";110.0
+"ShipSwift";"Dubai";"Logistics";42.0;0.12;"2024-05-18";"Series D";"UAE";25.0
+"ShipSwift";"Dubai";"Logistics";90.0;0.3;"2024-06-20";"Series D";"UAE";110.0
+"shopfast";"Colombo";"E-commerce";15.0;0.1;"2023-05-10";"Seed";"Sri Lanka";8.0
+"ShopFast";"Colombo";"E-commerce";15.0;0.1;"2023-05-10";"Seed";"Sri Lanka";8.0
+"SkyNet";"London";"Technology";110.0;0.35;"2023-11-01";"Series D";"United Kingdom";200.0
+"SmartLearn";"Delhi";"Education";45.0;0.25;"2024-01-15";"Series B";"India";55.0
+"TechNova";"New York";"Technology";120.0;0.25;"2023-01-15";"Series B";"United States";85.0
+"TechStart";"London";"";35.0;0.15;"2024-03-15";"Seed";"United Kingdom";18.0
+"TravelGo";"Dubai";"Travel";70.0;0.35;"2023-06-01";"Series C";"UAE";100.0
+"UrbanMove";"Dubai";"Transportation";85.0;0.4;"2024-01-01";"Series C";"UAE";130.0
